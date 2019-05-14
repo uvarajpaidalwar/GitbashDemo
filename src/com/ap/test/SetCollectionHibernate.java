@@ -22,6 +22,7 @@ public class SetCollectionHibernate {
 			pob.getPoffers().add("CB50");
 			pob.getPoffers().add("NEWS88");
 			pob.getPoffers().add("GETHLF");
+			pob.getPoffers()
 			
               //  Operation perform
 			ses.save(pob);
